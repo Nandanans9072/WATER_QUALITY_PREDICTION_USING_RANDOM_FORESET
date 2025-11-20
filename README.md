@@ -82,4 +82,3 @@ The Random Forest model achieves strong performance on the test set:
 
 
 
-    print("Water is NOT POTABLE (Unsafe to Drink).")
