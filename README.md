@@ -79,9 +79,7 @@ The Random Forest model achieves strong performance on the test set:
 | Precision / Recall | Improved after SMOTE |
 | Confusion Matrix | Better class separation |
 
-The model successfully classifies whether water is **Potable** or **Not Potable**.
 
----
 
 
     print("Water is NOT POTABLE (Unsafe to Drink).")
